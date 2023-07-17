@@ -1,0 +1,9 @@
+
+Java入門講座（Javaの基礎、オブジェクト指向、例外処理、クラスライブラリ）
+https://www.notion.so/Java-eddf6c46575c416ca9a2e92ef8aab9bd?pvs=4
+
+Webアプリ講座編（webアプリの基本GET・POSTなど、サーブレット、JSP、JavaBeans、MVCモデル）
+https://www.notion.so/WEB-7c58cb305c8e4b28890ddfa2260b5612?pvs=4
+
+DB編講座（DB接続の仕組み、SQL、JDBC、webアプリとDB連携）
+https://www.notion.so/DB-d7c1f740c2ea4cb8be2c10e84301691d?pvs=4
